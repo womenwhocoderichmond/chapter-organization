@@ -4,7 +4,7 @@
 
 Welcome to Women Who Code Richmonds's GitHub!  We have several folders for us to list resources, guides, or anything that might be useful for the Richmond network.
 
-## DC Network Resources
+## Richmond Network Resources
 
 * [WWC RVA Slack Guide](https://github.com/womenwhocoderichmond)
 * [Interview Resources](https://github.com/womenwhocoderichmond) 
