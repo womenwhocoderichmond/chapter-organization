@@ -3,7 +3,7 @@
 ##Directors
 - Partnerships Director : [Elisa Parkins] ()
 - Network & Communications Director : [Briana Crabb] (https://twitter.com/bcrabb63)
-- Education Director : [Trish Mahon] () 
+- Education Director : [Trish Mahan] () 
 
 ## Jump to a team
 1. [Education]()
@@ -14,7 +14,7 @@
 *The education team manages education Meetup events, technical talks, and hackathons. Teams are expected to have at least one event a month with at least two leads present at any event.*
 
 ### Roles
-- Director: [Trish Mahon]()
+- Director: [Trish Mahan]()
 - Algorithm Team:
   - [Rachel Dorn]()  
 - Front End:
