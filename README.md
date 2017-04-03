@@ -11,11 +11,13 @@ Welcome to Women Who Code Richmonds's GitHub!  We have several folders for us to
 * [Leadership Resources](https://github.com/womenwhocoderichmond)
 * [Learning Resources](https://github.com/womenwhocoderichmond)
 * Language Community Repos
-  * [Front End](https://github.com/womenwhocoderichmond)
+  * [Front End](https://github.com/womenwhocoderichmond/front-end-community)
   * [Ruby/Rails](https://github.com/womenwhocoderichmond)
   * [Python](https://github.com/womenwhocoderichmond)
-  * [Java/Android](https://github.com/womenwhocoderichmond)
-  * [Algorithms](https://github.com/womenwhocoderichmond)
+  * [Java/Android](https://github.com/womenwhocoderichmond/android-development-community)
+  * [Swift/iOS](https://github.com/womenwhocoderichmond/ios-development-community)
+  * [Algorithms](https://github.com/womenwhocoderichmond/algorithms-community)
+  * [Clean Code](https://github.com/womenwhocoderichmond/clean-code-community)
 
 ## Richmond Network Social Media
 * [Meetup.com](meetup.com/Women-Who-Code-Richmond)
