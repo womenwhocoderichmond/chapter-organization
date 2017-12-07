@@ -21,6 +21,7 @@
   - Molly Micheux
 - Angular Team: 
   - Shrada Kaldate
+  - Brenda Mudryk
 - Java Team: 
   - Debra Duke
   - Enu Matal 
