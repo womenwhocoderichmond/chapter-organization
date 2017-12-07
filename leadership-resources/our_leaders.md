@@ -20,17 +20,17 @@
   - Rachel Dorn
   - Molly Micheux
 - Angular Team: 
-  - Shrada Kildate
+  - Shrada Kaldate
 - Java Team: 
   - Debra Duke
   - Enu Matal 
 - Clean Code: 
   - Shannon Pawloski 
-  - Rachel ? 
+  - Rachel Mahan 
   - Sarah Abrogar
 - Front End:
   - Liz Swain
-  - Aubrey ? 
+  - Aubrey Northam 
 
 ## Network Team
 *The network team is responsible for maintaining and promoting the Women Who Code image and presence in Richmond and beyond. The network team  also plans non-reoccuring technical events as well as networking and professional development evetns. 
