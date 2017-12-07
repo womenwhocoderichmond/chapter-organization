@@ -1,40 +1,52 @@
 # Women Who Code RVA Leaders 
 
-##Directors
-- Partnerships Director : [Elisa Parkins] ()
-- Network & Communications Director : [Briana Crabb] (https://twitter.com/bcrabb63)
-- Education Director : [Trish Mahan] () 
+## Directors
+- Partnerships Director : [Elisa Parkins](https://twitter.com/elisa_parkin?lang=en) & [Michele Matthews](https://twitter.com/mlmatthews?lang=en)
+- Network Director : [Briana Crabb](https://twitter.com/bcrabb63)
+- Community Director : [Trish Mahan](https://twitter.com/trishmahan?lang=en) 
 
 ## Jump to a team
-1. [Education]()
+1. [Community Team](#community-team)
 1. [Network]()
 1. [Partnerships]()
 
-## Education Team
-*The education team manages education Meetup events, technical talks, and hackathons. Teams are expected to have at least one event a month with at least two leads present at any event.*
+
+## Community Team 
+*The community team manages reoccuring meetups focused around a technical topic. *
 
 ### Roles
-- Director: [Trish Mahan]()
+- Director: [Trish Mahan](https://twitter.com/trishmahan?lang=en)
 - Algorithm Team:
-  - [Rachel Dorn]()  
+  - Rachel Dorn
+  - Molly Micheux
+- Angular Team: 
+  - Shrada Kildate
+- Java Team: 
+  - Debra Duke
+  - Enu Matal 
+- Clean Code: 
+  - Shannon Pawloski 
+  - Rachel ? 
+  - Sarah Abrogar
 - Front End:
-  - [Liz Swain]()
-
+  - Liz Swain
+  - Aubrey ? 
 
 ## Network & Communication Team
-*The network team is responsible for maintaining and promoting the Women Who Code image and presence in Richmond  and beyond. The network team should have at least one braod focused event a quarter with two leads focused on planning the current event and two developing the next event idea
-Something about comms* 
+*The network team is responsible for maintaining and promoting the Women Who Code image and presence in Richmond and beyond. The network team  also plans non-reoccuring technical events as well as networking and professional development evetns. 
 
 ### Roles
 - Director: [Briana Crabb](https://twitter.com/bcrabb63)
 - Content Lead:
   - OPEN
-- Mentoring and Professional Development Leads:
-  - OPEN
-- Events Lead: 
-  - OPEN 
+- Events Leads: 
+  - Leigha Wilson
+  - Rosemary Cooke 
+  - Brooke Smith 
   
  ## Partnerships Team 
- *The partnerships team is responsible for cultivting and mainating Women Who Code's relationships with the Richmond Technology Community. They help plan external events we will have a presence at, maintain the list of hosts & sponsors for events, and .....
- - Director: [Elisa Parkins]()
+ *The partnerships team is responsible for cultivting and mainating Women Who Code's relationships with the Richmond Technology Community. They help plan external events we will have a presence at, maintain the list of hosts & sponsors for events, and continue to build new contacts throughout our network. 
+ 
+ ### Roles 
+ - Director: [Elisa Parkins](https://twitter.com/elisa_parkin?lang=en) & [Michele Matthews](https://twitter.com/mlmatthews?lang=en)
 
