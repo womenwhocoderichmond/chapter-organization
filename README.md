@@ -1,15 +1,13 @@
 # {Women Who Code RVA}
 
->Women Who Code (WWCode) is a global non-profit organization which inspires women to excel in careers in technology. We believe that innovation is driven by diversity and that the tech industry will be even better once women are no longer underrepresented. Women Who Code was founded in 2011 and has since grown to 25,000 members spanning 16 countries. The organization is best known for its technical study groups, hack nights, career development, and speaking events featuring influential technology industry experts and investors. Since inception, WWCode has produced more than 1000 events worldwide and garnered sponsorship from organizations like KPCB, Paypal, Etsy, Heroku, Yelp, and many others.
+>Women Who Code (WWCode) is a global non-profit organization which inspires women to excel in careers in technology. We believe that innovation is driven by diversity and that the tech industry will be even better once women are no longer underrepresented. Women Who Code was founded in 2011 and has since grown to 100,000 members spanning 60 cities. The organization is best known for its technical study groups, hack nights, career development, and speaking events featuring influential technology industry experts and investors. Since inception, WWCode has produces more than 1,500 events worldwide each year and garnered sponsorship from organizations like KPCB, Paypal, Etsy, Heroku, Yelp, and many others.
 
 Welcome to Women Who Code Richmonds's GitHub!  We have several folders for us to list resources, guides, or anything that might be useful for the Richmond network.
 
 ## Richmond Network Resources
 
-* [WWC RVA Slack Guide](https://github.com/womenwhocoderichmond)
-* [Interview Resources](https://github.com/womenwhocoderichmond) 
-* [Leadership Resources](https://github.com/womenwhocoderichmond)
-* [Learning Resources](https://github.com/womenwhocoderichmond)
+* [WWC RVA Slack Guide](slack_guide.md)
+* [Leadership Resources](leadership-resources)
 * Language Community Repos
   * [Front End](https://github.com/womenwhocoderichmond/front-end-community)
   * [Ruby/Rails](https://github.com/womenwhocoderichmond) - Want this community? Reach out to Trish on Slack!
@@ -20,6 +18,7 @@ Welcome to Women Who Code Richmonds's GitHub!  We have several folders for us to
   * [Clean Code](https://github.com/womenwhocoderichmond/clean-code-community)
   * [Angular](https://github.com/womenwhocoderichmond/angular-community)
   * [Java](https://github.com/womenwhocoderichmond) - Coming Soon!
+  * And be sure to check in for other repos following our one off technical events! 
 
 ## Richmond Network Social Media
 * [Meetup.com](meetup.com/Women-Who-Code-Richmond)
