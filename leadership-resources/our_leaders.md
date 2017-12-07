@@ -7,8 +7,8 @@
 
 ## Jump to a team
 1. [Community Team](#community-team)
-1. [Network]()
-1. [Partnerships]()
+1. [Network Team](#network-team)
+1. [Partnerships Team](#partnerships-team)
 
 
 ## Community Team 
@@ -32,7 +32,7 @@
   - Liz Swain
   - Aubrey ? 
 
-## Network & Communication Team
+## Network Team
 *The network team is responsible for maintaining and promoting the Women Who Code image and presence in Richmond and beyond. The network team  also plans non-reoccuring technical events as well as networking and professional development evetns. 
 
 ### Roles
