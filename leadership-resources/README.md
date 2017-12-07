@@ -1,12 +1,12 @@
 # Women Who Code RVA Leadership Resources 
 
 Welcome to the Women Who Code RVA Leadership resource page. This is your go to resource for questions you have in your leadership position in Women Who Code Richmond. 
-If you're interested in _becoming_ part of the leadership team please see our [becoming a leader](https://github.com/womenwhocoderichmond/chapter-organization/blob/master/leadership-resources/becoming_a_leader.md) page for more information. We'd love to have you on the team.
+If you're interested in _becoming_ part of the leadership team please see our [becoming a leader](becoming_a_leader.md) page for more information. We'd love to have you on the team.
 
-### Table of Contents
+### QuickLinks
 [Our Leadership Team](our_leaders.md)  
-[Leadership Overview]()  
-[Becoming a Leader]()  
+[Leadership Overview/ Roles & Responsibilities]()  
+[Becoming a Leader](becoming_a_leader.md)  
 
 
 #### Communitty Team
