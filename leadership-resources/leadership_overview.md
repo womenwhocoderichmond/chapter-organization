@@ -5,13 +5,15 @@ Help with one event but not mroe. Outlines the expectations of the leads and you
 
 ### Expectation of all Leads 
 
+---
+
 **Work toward the 2018 Netowrk goals**
 
 - At the end of each year we will come together as a team to recap and plan for the following year. In this we will identify new or recurring [Goals](network-goals.md) for our network
 
 **The most important requirement for our leadership team is that they are active members of the RVA Women Who Code Network.**
 
-- Attend at least 2 meetups a month. You should be visible and engage. This doesn’t mean you have to LEAD but you should be particpating. (going to tons of leadership meetings doesn't count!) 
+- Attend at least 2 meetups a month. You should be visible and engage. This doesn’t mean you have to LEAD but you should be particpating. 
 - Be active on slack. 
     1. Welcome new members (the leads who attended a Meetup should each reach out to two newer attendees to follow up about something
                             leads who didn't attend the Meetup should monitor Slack to welcome new members in the channel by @name)                          
@@ -19,7 +21,7 @@ Help with one event but not mroe. Outlines the expectations of the leads and you
     3. provide technical community through slack (post in your repsective technology domain channels )
     
     **slack is as active as we make it**
-- Attend one quartely lead meeting with directors 
+- Attend one quartely chapter meeting with other leads and directors 
 
 **Be open and committed**
 - When life hits the fan just let us know you need to step back. This is why we have multiple people filling roles, But remember your commitments to your positions 
@@ -36,6 +38,7 @@ Help with one event but not mroe. Outlines the expectations of the leads and you
 
 
 ### Education Team Roles and Responsibilites
+---
 
 **Directors**
 
@@ -67,7 +70,7 @@ TODO: responsible for coordinating one off technical meetups as badnwidth and sp
 - Share code/ resources on github when needed 
 
 ### Network Roles & Responsibilities 
-
+---
 
 **Directors**
 
