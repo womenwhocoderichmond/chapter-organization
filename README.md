@@ -6,19 +6,17 @@ Welcome to Women Who Code Richmonds's GitHub!  We have several folders for us to
 
 ## Richmond Network Resources
 
-* [WWC RVA Slack Guide](slack_guide.md)
-* [Leadership Team & Resources](leadership-resources)
-* Language Community Repos
-  * [Front End](https://github.com/womenwhocoderichmond/front-end-community)
-  * [Ruby/Rails](https://github.com/womenwhocoderichmond) - Want this community? Reach out to Trish on Slack!
-  * [Python](https://github.com/womenwhocoderichmond) - Want this community? Reach out to Trish on Slack!
-  * [Android](https://github.com/womenwhocoderichmond/android-development-community) - Want this community? Reach out to Trish on Slack!
-  * [Swift/iOS](https://github.com/womenwhocoderichmond/ios-development-community) - Want this community? Reach out to Trish on Slack!
-  * [Algorithms](https://github.com/womenwhocoderichmond/algorithms-community)
-  * [Clean Code](https://github.com/womenwhocoderichmond/clean-code-community)
-  * [Angular](https://github.com/womenwhocoderichmond/angular-community)
-  * [Java](https://github.com/womenwhocoderichmond) - Coming Soon!
-  * And be sure to check in for other repos following our one off technical events! 
+* [Slack Guide](slack_guide.md) | Learn about how our community stays connected with Slack. 
+* [Leadership Resources](leadership-resources/README.md) | Interested in being a leader? The leadership resources walk you through how to become a leader within our chapter. 
+* Community Repos | We have a variety of communities focused on different technologies active in our chapter. To learn more about a community or see past Meetup content click the link below.   
+
+	* [Front End](https://github.com/womenwhocoderichmond/front-end-community)
+	* [Algorithms](https://github.com/womenwhocoderichmond/algorithms-community)
+	* [Clean Code](https://github.com/womenwhocoderichmond/clean-code-community)
+	* [Angular](https://github.com/womenwhocoderichmond/angular-community)  
+	
+	**Don't see community of you're passionate about? Reach out to Trish Mahan or Bri Augenreich on Slack!**
+
 
 ## Richmond Network Social Media
 * [Meetup.com](https://meetup.com/Women-Who-Code-Richmond)
