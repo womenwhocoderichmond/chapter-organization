@@ -54,6 +54,7 @@ TODO: responsible for coordinating rercurring meetups around specific technology
 - Set direction for your community. Take a look at our [event inspiration ](event-inspiration.md) for ideas on types of events your community could have (eel free to mix it up!).
 - Send directors details (Dates, Space, event details) of upcoming meetups in a timley manor (3 months out). Review the [playbook](event-playbook.md) for gudiance on how to approach coordinating meetups.     
 - Share pictures / blurbs for social 
+- Maintain github repos for community
 
 
 
@@ -63,6 +64,7 @@ TODO: responsible for coordinating one off technical meetups as badnwidth and sp
 - Leads should be actively monitoring the one-off backlog for potential events 
 - Send directors details (Dates, Space, event details) of upcoming meetups in a timley manor (3 months out). Review the [playbook](event-playbook.md) for gudiance on how to approach coordinating meetups.     
 - Share pictures / blurbs for social 
+- Share code/ resources on github when needed 
 
 ### Network Roles & Responsibilities 
 
