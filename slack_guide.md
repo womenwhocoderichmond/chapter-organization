@@ -32,4 +32,4 @@ Spam, harassment, and messages and content that violate our code of conduct are 
 - You can configure different notification settings for your laptop vs your phone
 
 ## Sign up here!
-`https://wwcrva-slack.herokuapp.com/`
+https://wwcrva-slack.herokuapp.com
