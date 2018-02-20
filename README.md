@@ -21,7 +21,7 @@ Welcome to Women Who Code Richmonds's GitHub!  We have several folders for us to
   * And be sure to check in for other repos following our one off technical events! 
 
 ## Richmond Network Social Media
-* [Meetup.com](meetup.com/Women-Who-Code-Richmond)
+* [Meetup.com](https://meetup.com/Women-Who-Code-Richmond)
 * [Twitter](https://twitter.com/WWCodeRichmond)
 * [Facebook](https://www.facebook.com/WWCodeRichmond/)
 
