@@ -45,6 +45,10 @@
 - Director: [Elisa Parkins](https://twitter.com/elisa_parkin?lang=en) & [Michele Matthews](https://twitter.com/mlmatthews?lang=en)
 - Content Lead:
   - OPEN 
-- Events Leads: 
+- Donuts Leads: 
   - Sarah Arbogar
+- Happy Hour Leads:
+    - OPEN
+- Mentoring and Professional Development Leads:
+  - OPEN
   
