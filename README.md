@@ -32,7 +32,7 @@ Check out these addtional resources from the global Women Who Code orginization.
 * [Women Who Code site](https://www.womenwhocode.com/)
 * [WWC Github Orginization](https://github.com/WomenWhoCode)  
 * [WWC Guidelines and Resources](https://github.com/WomenWhoCode/guidelines-resources)  
-	* [Code of Conduct](https://github.com/WomenWhoCode/guidelines-resources/blob/master/code_of_conduct.md)
+	* [Code of Conduct](https://github.com/WomenWhoCode/guidelines-resources/blob/master/short_code_of_conduct.md)
 	* [Programming Resources](https://github.com/WomenWhoCode/guidelines-resources/blob/master/learn_to_program.md)
 	* [Who We Are](https://github.com/WomenWhoCode/guidelines-resources/blob/master/who_we_are.md) 
 * [WWC in the News](https://github.com/WomenWhoCode/WWCodeInTheNews)
