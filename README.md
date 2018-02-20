@@ -13,13 +13,12 @@ Welcome to Women Who Code Richmonds's GitHub!  We have several folders for us to
 * [Leadership Resources](leadership-resources/README.md) | Interested in being a leader? The leadership resources walk you through how to become a leader within our chapter. 
 * Community Repos | We have a variety of communities focused on different technologies active in our chapter. To learn more about a community or see past Meetup content click the link below.   
 
-**Don't see community of you're passionate about? Reach out to Trish Mahan or Bri Augenreich on Slack!**
-  * [Front End](https://github.com/womenwhocoderichmond/front-end-community)
-  * [Algorithms](https://github.com/womenwhocoderichmond/algorithms-community)
-  * [Clean Code](https://github.com/womenwhocoderichmond/clean-code-community)
-  * [Angular](https://github.com/womenwhocoderichmond/angular-community)
-
-  * And be sure to check in for other repos following our one off technical events! 
+	* [Front End](https://github.com/womenwhocoderichmond/front-end-community)
+	* [Algorithms](https://github.com/womenwhocoderichmond/algorithms-community)
+	* [Clean Code](https://github.com/womenwhocoderichmond/clean-code-community)
+	* [Angular](https://github.com/womenwhocoderichmond/angular-community)  
+	
+	**Don't see community of you're passionate about? Reach out to Trish Mahan or Bri Augenreich on Slack!**
 
 ## Richmond Network Social Media
 * [Meetup.com](meetup.com/Women-Who-Code-Richmond)
