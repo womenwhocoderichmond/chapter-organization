@@ -30,7 +30,7 @@ Welcome to Women Who Code Richmonds's GitHub!  We have several folders for us to
 ## Global Resources
 Check out these addtional resources from the global Women Who Code orginization. 
 
-* [Women Who Code site](https://www.womenwhocode.com/)  
+* [Women Who Code site](https://www.womenwhocode.com/)
 * [WWC github page](https://github.com/WomenWhoCode)  
 * [WWC Guidelines and Resources](https://github.com/WomenWhoCode/guidelines-resources)  
 	* [Code of Conduct](https://github.com/WomenWhoCode/guidelines-resources/blob/master/code_of_conduct.md)
