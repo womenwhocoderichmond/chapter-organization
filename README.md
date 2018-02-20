@@ -7,7 +7,7 @@ Welcome to Women Who Code Richmonds's GitHub!  We have several folders for us to
 ## Richmond Network Resources
 
 * [WWC RVA Slack Guide](slack_guide.md)
-* [Leadership Resources](leadership-resources)
+* [Leadership Team & Resources](leadership-resources)
 * Language Community Repos
   * [Front End](https://github.com/womenwhocoderichmond/front-end-community)
   * [Ruby/Rails](https://github.com/womenwhocoderichmond) - Want this community? Reach out to Trish on Slack!
