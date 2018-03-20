@@ -11,9 +11,7 @@ Welcome to Women Who Code Richmonds's GitHub!  We have several folders for us to
 * Community Repos | We have a variety of communities focused on different technologies active in our chapter. To learn more about a community or see past Meetup content click the link below.   
 
 	* [Front End](https://github.com/womenwhocoderichmond/front-end-community)
-	* [Algorithms](https://github.com/womenwhocoderichmond/algorithms-community)
-	* [Clean Code](https://github.com/womenwhocoderichmond/clean-code-community)
-	* [Angular](https://github.com/womenwhocoderichmond/angular-community)  
+	* [Algorithms](https://github.com/womenwhocoderichmond/algorithms-community
 	
 	**Don't see community of you're passionate about? Reach out to Trish Mahan or Bri Augenreich on Slack!**
 
