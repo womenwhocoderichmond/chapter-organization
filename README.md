@@ -10,14 +10,14 @@ Welcome to Women Who Code Richmonds's GitHub!  We have several folders for us to
 * [Leadership Resources](leadership-resources)
 * Language Community Repos
   * [Front End](https://github.com/womenwhocoderichmond/front-end-community)
-  * [Ruby/Rails](https://github.com/womenwhocoderichmond) - Want this community? Reach out to Trish on Slack!
-  * [Python](https://github.com/womenwhocoderichmond) - Want this community? Reach out to Trish on Slack!
-  * [Android](https://github.com/womenwhocoderichmond/android-development-community) - Want this community? Reach out to Trish on Slack!
-  * [Swift/iOS](https://github.com/womenwhocoderichmond/ios-development-community) - Want this community? Reach out to Trish on Slack!
+  * [Ruby/Rails](https://github.com/womenwhocoderichmond) - Want this community? Reach out to Trish or Bri on Slack!
+  * [Python](https://github.com/womenwhocoderichmond) - Want this community? Reach out to Trish or Bri on Slack!
+  * [Android](https://github.com/womenwhocoderichmond/android-development-community) - Want this community? Reach out to Trish or Bri on Slack!
+  * [Swift/iOS](https://github.com/womenwhocoderichmond/ios-development-community) - Want this community? Reach out to Trish or Bri on Slack!
   * [Algorithms](https://github.com/womenwhocoderichmond/algorithms-community)
-  * [Clean Code](https://github.com/womenwhocoderichmond/clean-code-community)
-  * [Angular](https://github.com/womenwhocoderichmond/angular-community)
-  * [Java](https://github.com/womenwhocoderichmond) - Coming Soon!
+  * [Clean Code](https://github.com/womenwhocoderichmond) Want this community? Reach out to Trish or Bri on Slack!
+  * [Angular](https://github.com/womenwhocoderichmond) Want this community? Reach out to Trish or Bri on Slack!
+  * [Java](https://github.com/womenwhocoderichmond) - Want this community? Reach out to Trish or Bri on Slack!
   * And be sure to check in for other repos following our one off technical events! 
 
 ## Richmond Network Social Media
