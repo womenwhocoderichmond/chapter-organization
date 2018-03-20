@@ -24,10 +24,6 @@ Spam, harassment, and messages and content that violate our code of conduct are 
 - Mention other members by using @ and their username. Mentioning is good as the member may not have seen your message or follow up reply otherwise! Be careful not to ping someone too often though - they may get annoyed with a large number of notifications.
 - Do not ask the same question in 3-5 different channels. Try to ask the question in 1-2 of the most relevant or important channels.
 
-## Channels Guide
-COMING SOON! :) 
-
-*Have an idea for a new channel?* Reach out to a member of the Women Who Code Richmond leadership team and propose it in #_general.
 
 ## Managing Notifications
 - Don't feel like you need to read every single message on every Slack channel - just skim through what you find interesting
