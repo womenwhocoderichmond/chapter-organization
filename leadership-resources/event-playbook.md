@@ -2,11 +2,11 @@
 
 ### Table of Contents 
 
-### Before the Meetup
+### Before the Meetup (REVIEW copied from DC )
 - The newest lead and her mentor (the person who recruited her) are responsible for the planning and creation of the Meetup.com event
   - If you don't have a mentor/know who your mentor is, please bring this up in the Core Team Leads channel or your specific language leads channel!
   - This **does not imply she must personally create the Meetup.com event or even attend the meetup**
-  - It _is_ the newest lead's responsibility to ask people to volunteer to create the Meetup.com event, commit to attending, etc.
+  - It _is_ the newest lead's responsibility to ask people to volunteer to update the trello board, getcommit to attending, etc.
   - This responsibility will remain with her until another newest lead is recruited
 - Meetups should be sent to the Directors to schedule **on Meetup.com** _at least two weeks (we want months right?) before_ the event. Two weeks is about right for our hosts to feel comfortable that we wont stand them up & for people to make plans to attend but not forget
 - Before a meetup is scheduled on Meetup.com, at least two team leads must commit to being there for the night
