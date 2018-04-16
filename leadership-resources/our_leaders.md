@@ -17,17 +17,7 @@
 
 - Algorithm Team:
   - Rachel Dorn
-  
-- Angular Team: 
-  - Shrada Kaldate
-  
-- Java Team: 
-  - Enu Matal 
-  
-- Clean Code: 
-  - Rachel Mahan 
-  - Sarah Abrogar
-  
+ 
 - Front End:
   - Liz Swain
   - Aubrey Northam 
@@ -46,7 +36,7 @@
 - Content Lead:
   - OPEN 
 - Donuts Leads: 
-  - Sarah Arbogar
+  - OPEN
 - Happy Hour Leads:
     - OPEN
 - Mentoring and Professional Development Leads:
