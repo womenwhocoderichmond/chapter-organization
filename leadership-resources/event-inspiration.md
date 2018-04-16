@@ -25,13 +25,13 @@ We have an assortment of meetup that can be delivered in most languages basciall
     
 5. Get a job / Linkedin Updates
   
-  We all meet together and update our LinkedIn + talk about interviews and other things we've needed in getting jobs
+    We all meet together and update our LinkedIn + talk about interviews and other things we've needed in getting jobs
 
 6. Happy Hour
 
 7. "How do you google for language X", "How to read the docs"
   
-  more than half of software development can be just reading the docs and searching google. It's a skill that we can teach!
+    more than half of software development can be just reading the docs and searching google. It's a skill that we can teach!
 
 8. Intro to Git for Language X
   
@@ -47,11 +47,11 @@ We have an assortment of meetup that can be delivered in most languages basciall
 
 11. Conference recap 
     
-    people go to large conferences and talk about lessons learned / we show some recorded talks
+    People go to large conferences and talk about lessons learned / we show some recorded talks
 
 13. Code Review
 
-    having prepared ahead of time, one or more members present and walk through (a section of) their code. This will allow less experienced coders to learn and experienced coders the space to improve their code.
+    Having prepared ahead of time, one or more members present and walk through (a section of) their code. This will allow less experienced coders to learn and experienced coders the space to improve their code.
   
     _this event differs from **3** (Demo Night) because this event will have a facilitated conversation between the person presenting code and the people reviewing the code (aka everyone else), where Demos are typically less conversational_
     
