@@ -7,7 +7,7 @@ or
 
 In either case, you're probably a good fit for the job!
 
-### Next steps in getting involed are:
+### Next steps in getting involved are:
 
 #### Definitely:
 - Read through our [Leadership Overview & Expectations](leadership_overview.md) to get an idea of what you're thinking of signing up for.
@@ -23,4 +23,4 @@ In either case, you're probably a good fit for the job!
   
 ### Worried about making the commitment? Not sure WWCode is the right fit for you? 
   
-Not only will we set you up with a mentor to guide you through your journey as a lead, we evaulutae fit on a trial basis. So if youre interested reach out, try us on for a few months and we will revealuate and see how things go! 
+Not only will we set you up with a mentor to guide you through your journey as a lead, we evaluate fit on a trial basis. So if you're interested reach out, try us on for a few months and we will see how things go! 
