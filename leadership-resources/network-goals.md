@@ -9,7 +9,9 @@ One of our goals as an organization is to increase the visibility of women in th
 - increase particiaption by %  
 - increase core team particiaption to 
 - host # of meetups a month 
-- offer # 
+- offer 3 monthly communities 
+- offer one technical meetup (not community ) a quarter 
+- offer one networking event a quarter 
 
 
 
