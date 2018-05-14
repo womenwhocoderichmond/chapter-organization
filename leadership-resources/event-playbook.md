@@ -2,22 +2,21 @@
 
 ### Table of Contents 
 
-### Before the Meetup (REVIEW copied from DC )
-- The newest lead and her mentor (the person who recruited her) are responsible for the planning and creation of the Meetup.com event
-  - If you don't have a mentor/know who your mentor is, please bring this up in the Core Team Leads channel or your specific language leads channel!
-  - This **does not imply she must personally create the Meetup.com event or even attend the meetup**
-  - It _is_ the newest lead's responsibility to ask people to volunteer to update the trello board, getcommit to attending, etc.
-  - This responsibility will remain with her until another newest lead is recruited
-- Meetups should be sent to the Directors to schedule **on Meetup.com** _at least two weeks (we want months right?) before_ the event. Two weeks is about right for our hosts to feel comfortable that we wont stand them up & for people to make plans to attend but not forget
-- Before a meetup is scheduled on Meetup.com, at least two team leads must commit to being there for the night
-- Please consult the [Location Manager]()for your location logisitcs. and consider the following
+### Before the Meetup 
+- The event leads are responsible for the coordination of the event logistics this includes:
+  - Finding a host and sponsor if the topic coordinator does not have one.Please consult the [Location Manager]()for your location logisitcs. and consider the following: 
     1. Space for people seated and working? How will it be configured? What is the max number of peopel 
     2. Outles, projector, wifi logistics
     3. Who is hosting? (space & wifi) Who is sponroing (food & extras)... be sure to let the host and sponsor know they will have an opprotunty to speak
-    4.
+    4.Please refer to the list of availble venues or reach out to our netowrk directors 
+  - finding volunteers if needed
+  - updating the trello board with logistic details, event agenda, meetup description, and sample social media posts
+  - tagging the directors to schedule on Meetup.com _at least 3 weeks before the event_. 
+- Before a meetup is scheduled on Meetup.com, at least two team leads must commit to being there for the night
+
 
 ### Day-of Meetup Agenda
-#### Before (6:15-6:30 for a 6:30 event)
+#### Before (4:45-6:00 for a 6:00 event)
 - Arrive 15 Minutes before listed meetup time
 - Make sure you have the host’s phone number
 - At the front door: post signs “Yes! Women Who Code is here!” w/ phone number and directions to the room if necessary
@@ -26,24 +25,14 @@
   - link to slack (`https://wwcrva-slack.herokuapp.com/`)
   - an ask to tweet to us! @WWCodeRichmond
 
-#### During (6:30-8:00pm)
-- Introduction to  Women Who Code Richmond, our other events, details about your team
-  - Consider saying out [Mission Statement]()
+#### During (6:00 - 8:00 pm)
+- Introduction to  Women Who Code Richmond, the code of conduct, our other events, details about your team. Refere to [these sample slides]() for reference of what to include. 
 - Mention wifi, WWC slack, twitter, meetup format, active projects
 - Go around the room and ask everyone to say:
   - Their name & some background information
   - What they hope to accomplish at the meetup
 - Encourage people to communicate on Twitter and Slack during the meetup
 - Take attendance! We are looking into the best way to have people sign in 
-- Be asking people what they're working on & **if they'd be comfortable giving a demonstration** 
-  - between 5-20 minutes
-    - we could give them a whole evening if they want!
-  - that night or another week
-- Ask if you can post a picture on Twitter
-
-
-
-#### Demo / Tech Talk Time / Wrap Up (8:00-8:30pm)
 - Try to schedule a demo / project share for 8pm.
 - Go around once more and have everyone say:
   - Their name
@@ -51,10 +40,11 @@
     - Everyone accomplished something, but they usually don't realize it at first
     - Ask prodding or clarifying questions. Try to get them to quickly bestow their new knowledge to everyone else in the room. 
 - Make sure they aren’t forgetting things
-- Wrap up with an applaud her 
+- Wrap up with an [applaud her]()
 
 #### Directly Afterwards
 - Check for forgotten items at the end
+- close up shop with the event hose
 
 #### In the Following Days
 - Follow up on Slack with at least two members.
