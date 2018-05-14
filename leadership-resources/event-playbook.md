@@ -16,7 +16,7 @@
 
 
 ### Day-of Meetup Agenda
-#### Before (4:45-6:00 for a 6:00 event)
+#### Before (15 minutes)
 - Arrive 15 Minutes before listed meetup time
 - Make sure you have the host’s phone number
 - At the front door: post signs “Yes! Women Who Code is here!” w/ phone number and directions to the room if necessary
