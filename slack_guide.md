@@ -10,26 +10,28 @@ Even though Slack has private groups and direct messages, you should try to use 
 
 ## Women Who Code Richmond + Slack
 
-Women Who Code Richmond uses Slack to communicate in between Women Who Code RIchmond events and study group sessions. Use Slack to ask other WWCRVA members technical questions, get advice on career issues, share learning resources, and broadcast events. 
+Women Who Code Richmond uses Slack to communicate in between Women Who Code Richmond events and study group sessions. Use Slack to ask other WWCRVA members technical questions, get advice on career issues, share learning resources, and broadcast events. 
 
 Most of the messages and content you post in our Slack channels should relate to our mission of teaching and encouraging women and non-binary people to code. Popular topics include women in technology, learning how to code, technology career advice, and the Richmond
 Tech scene. If you are unsure about whether or not you should post something in Slack, feel free to reach out to any of the Women Who Code Richmond leads!
 
-Spam, harassment, and messages and content that violate our code of conduct are not tolerated in the WWCRVA Slack. Individuals who violate our code of conduct will have their Slack accounts disabled. 
+Spam, harassment, messages, and content that violate our code of conduct are not tolerated in the WWCRVA Slack. Individuals who violate our code of conduct will have their Slack accounts disabled. 
 
 
 ## Slack Usage Guidelines
 
-- Avoid using @channel and instead use @here, especially in large channels such as #_general and #_announcements.
+- Avoid using @channel and instead use @here, especially in large channels such as #general and #announcements.
 - Mention other members by using @ and their username. Mentioning is good as the member may not have seen your message or follow up reply otherwise! Be careful not to ping someone too often though - they may get annoyed with a large number of notifications.
 - Do not ask the same question in 3-5 different channels. Try to ask the question in 1-2 of the most relevant or important channels.
 
 
-## Managing Notifications
-- Don't feel like you need to read every single message on every Slack channel - just skim through what you find interesting
-- You can set ping notifications for direct messages, mentions, or all messages for certain channels
-- You can subscribe to have certain words highlighted - i.e. send me a Slack notification whenever someone says "Ruby on Rails" or "Wordpress"
-- You can configure different notification settings for your laptop vs your phone
+## Managing Notifications & Quick Tips
+- Don't feel like you need to read every single message on every Slack channel - just skim through what you find interesting.
+- You can set ping notifications for direct messages, mentions, or all messages for certain channels.
+- You can subscribe to have certain words highlighted - i.e. send me a Slack notification whenever someone says "Ruby on Rails" or "Wordpress."
+- You can configure different notification settings for your laptop vs your phone.
+- You can enable an "All Unreads" view by going to Preferences > Sidebar > and checking the box for "Show All Unreads." Then at the top of your sidebar will be an "All Unreads" tab that can let you quickly view in one setting all the conversation that you have missed. 
+- If you already use Slack for other organizations, it can be helpful to setup Sidebar themes to distinguish which organization you are currently in. Under Preferences > Sidebar > Paste in "#212121,#BEBEBE,#007a7b,#FAFAFA,#BEBEBE,#FAFAFA,#007a7b,#F68B1F" in the bottom field for a Women Who Code approved color theme.
 
 ## Sign up here!
 https://wwcrva-slack.herokuapp.com
