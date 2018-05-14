@@ -4,7 +4,7 @@
 
 ### Before the Meetup 
 - The event leads are responsible for the coordination of the event logistics this includes:
-  - Finding a host and sponsor if the topic coordinator does not have one.Please consult the [Location Manager]()for your location logisitcs. and consider the following: 
+  - Finding a host and sponsor if the topic coordinator does not have one.Please consult the [Partnership Log](https://trello.com/b/QoJq669q/wwc-organizational-planning) for your location logisitcs. and consider the following: 
     1. Space for people seated and working? How will it be configured? What is the max number of peopel 
     2. Outles, projector, wifi logistics
     3. Who is hosting? (space & wifi) Who is sponroing (food & extras)... be sure to let the host and sponsor know they will have an opprotunty to speak
@@ -26,21 +26,21 @@
   - an ask to tweet to us! @WWCodeRichmond
 
 #### During (6:00 - 8:00 pm)
-- Introduction to  Women Who Code Richmond, the code of conduct, our other events, details about your team. Refere to [these sample slides]() for reference of what to include. 
+- Introduction to  Women Who Code Richmond, the code of conduct, volunteer opportunities, details about your team. Refer to [these sample slides]() for reference of what to include. 
 - Mention wifi, WWC slack, twitter, meetup format, active projects
-- Go around the room and ask everyone to say:
+- Play a fun ice breaker! or Go around the room and ask everyone to say:
   - Their name & some background information
   - What they hope to accomplish at the meetup
 - Encourage people to communicate on Twitter and Slack during the meetup
 - Take attendance! We are looking into the best way to have people sign in 
-- Try to schedule a demo / project share for 8pm.
+- Try to schedule a demo / project share at the end
 - Go around once more and have everyone say:
   - Their name
   - What they accomplished at the meetup
     - Everyone accomplished something, but they usually don't realize it at first
     - Ask prodding or clarifying questions. Try to get them to quickly bestow their new knowledge to everyone else in the room. 
 - Make sure they aren’t forgetting things
-- Wrap up with an [applaud her]()
+- Wrap up with an applaud her, upcoming events, ways to get involved, and how to stay connected 
 
 #### Directly Afterwards
 - Check for forgotten items at the end
