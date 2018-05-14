@@ -4,6 +4,7 @@
 - a Women Who Code Richmond Lead sent you here
 or 
 - you're reading the WWC Richmond Documentation just for fun
+
 In either case, you're probably a good fit for the job!
 
 ### Next steps in getting involed are:
