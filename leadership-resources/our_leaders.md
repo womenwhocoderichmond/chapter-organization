@@ -18,9 +18,13 @@
 - Algorithm Team:
   - Rachel Dorn
  
-- Front End:
+- Front End Team:
   - Liz Swain
-  - Aubrey Northam 
+  - Aubrey Northam
+  
+- Python Team:
+  - Michele Matthews 
+  - Viji Natarajan
   
 - One Off Leads:
   - Leigha Wilson
