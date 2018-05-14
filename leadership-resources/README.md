@@ -1,6 +1,6 @@
 # Women Who Code RVA Leadership Resources 
 
-Welcome to the Women Who Code RVA Leadership resource page. Considering joingin the leadership team? Wondering what your commitment to WWCode Richmond is as a current lead? Just curious about what the network leaders do? Then youre at the right spot! 
+Welcome to the Women Who Code RVA Leadership resource page. Considering joining the leadership team? Wondering what your commitment to WWCode Richmond is as a current lead? Just curious about what the network leaders do? Then you're at the right spot! 
 Below you'll find all the details about the Women Who Code Richmond leadership organization. 
 If you're interested in becoming part of the leadership team please see our [becoming a leader](becoming_a_leader.md) page for more information. We'd love to have you on the team.
 
@@ -16,7 +16,7 @@ If you're interested in becoming part of the leadership team please see our [bec
 
 #### Education Team
   
-The education team coordinates technical events for women to learn and build things related to a specific technology or language.  These events inlcude reoccuring "communites" for specific topics and one off tehcnology events for areas of interest that may not have a reoccuring community interest!
+The education team coordinates technical events for women to learn and build things related to a specific technology or language.  These events include reoccurring "communities" for specific topics and one off tehcnology events for areas of interest that may not have a reoccurring community interest!
  
 #### Network Team
   
