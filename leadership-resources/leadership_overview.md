@@ -12,7 +12,7 @@ Women Who Code is not possible without the wonderful volunteers who dedicate the
 
 **The most important requirement for our leadership team is that they are active members of the RVA Women Who Code Network.**
 
-- Attend at least 2 meetups a month. You should be visible and engage. This doesn’t mean you have to LEAD but you should be particpating (if you do lead an event that counts toward your meetup count). 
+- If you are not leading an event attend at least 2 meetups a month. You should be visible and engaged. This doesn’t mean you have to LEAD but you should be particpating (if you do lead an event you are only requried to attend your event). 
 - Be active on slack. 
     1. Welcome new members (the leads who attended a Meetup should each reach out to two newer attendees to follow up about something
                             leads who didn't attend the Meetup should monitor Slack to welcome new members in the channel by @name)                          
