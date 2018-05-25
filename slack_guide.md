@@ -25,13 +25,13 @@ Spam, harassment, messages, and content that violate our code of conduct are not
 - Do not ask the same question in 3-5 different channels. Try to ask the question in 1-2 of the most relevant or important channels.
 
 
-## Managing Notifications & Quick Tips
 - Don't feel like you need to read every single message on every Slack channel - just skim through what you find interesting.
 - You can set ping notifications for direct messages, mentions, or all messages for certain channels.
 - You can subscribe to have certain words highlighted - i.e. send me a Slack notification whenever someone says "Ruby on Rails" or "Wordpress."
 - You can configure different notification settings for your laptop vs your phone.
 - You can enable an "All Unreads" view by going to Preferences > Sidebar > and checking the box for "Show All Unreads." Then at the top of your sidebar will be an "All Unreads" tab that can let you quickly view in one setting all the conversation that you have missed. 
 - If you already use Slack for other organizations, it can be helpful to setup Sidebar themes to distinguish which organization you are currently in. Under Preferences > Sidebar > Paste in "#212121,#BEBEBE,#007a7b,#FAFAFA,#BEBEBE,#FAFAFA,#007a7b,#F68B1F" in the bottom field for a Women Who Code approved color theme.
+
 
 ## Sign up here!
 https://wwcrva-slack.herokuapp.com

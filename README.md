@@ -6,6 +6,7 @@ Welcome to Women Who Code Richmonds's GitHub!  We have several folders for us to
 
 ## Richmond Network Resources
 
+
 * [Slack Guide](slack_guide.md) | Learn about how our community stays connected with Slack. 
 * [Leadership Resources](leadership-resources/README.md) | Interested in being a leader? The leadership resources walk you through how to become a leader within our chapter. 
 * Community Repos | We have a variety of communities focused on different technologies active in our chapter. To learn more about a community or see past Meetup content click the link below.   
